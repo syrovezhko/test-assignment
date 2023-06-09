@@ -1,5 +1,9 @@
 # Тестовое задание для поступления в FrontCloudCamp
 
+## [Dev branch](https://github.com/syrovezhko/test-assignment/tree/dev) | [Deploy link](https://syrovezhko.github.io/test-assignment/build/)
+
+---
+
 Результаты выполнения тестового задания следует код опубликовать на GitHub и захостить на любой открытой платформе (например, Github Pages) и отправить на почту frontcloudcamp@cloud.ru.
 
 ## Разработка формы описания профиля
@@ -42,3 +46,7 @@
 - Styled-components | scss modules | css modules
 - Formik | react final form | react hook form
 - Yup
+
+---
+
+## [Dev branch](https://github.com/syrovezhko/test-assignment/tree/dev) | [Deploy link](https://syrovezhko.github.io/test-assignment/build/)
